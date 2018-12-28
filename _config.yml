@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>尝试</p>
+     <p>做一个合格的搬砖人...</p>
   header_text_feature_image:
   footer_text: >
    Yuehe's blog
@@ -26,7 +26,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "yuehe0920/yuehe0920.github.io"
   google_plus:
   instagram:
   linkedin:  # Full URL
